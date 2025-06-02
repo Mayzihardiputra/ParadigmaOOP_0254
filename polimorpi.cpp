@@ -28,3 +28,7 @@ public:
         cout << "Pesan dari lia" << endl;
     }
 };
+
+int main()
+{
+}
